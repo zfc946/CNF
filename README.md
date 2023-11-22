@@ -22,12 +22,14 @@ pip install -r requirements.txt
 ```
 python fit_Fermat.py
 ```
+![](https://zfc946.github.io/CNF.github.io/static/images/fermat.svg)
 
 ### Learning Material Appearance
 First, download the MERL dataset from https://www.merl.com/brdf/, replace `PATH/TO/MERL/DATASET` at line 203 of `fit_brdf.py` with the path to the MERL dataset, then run
 ```
 python fit_brdf.py
 ```
+![](https://zfc946.github.io/CNF.github.io/static/images/brdf.png)
 
 ### Interpolatory Shape Reconstruction
 
@@ -35,12 +37,14 @@ python fit_brdf.py
 ```
 python fit_exact_normal.py
 ```
-#### Patch Based Sovler
+#### Large Scale Reconstruction (Sparse Solver)
 ```
 python fit_pointcloud_3d.py
 ```
+![](https://zfc946.github.io/CNF.github.io/static/images/surface.png)
 
 ### Self-Tuning PDE Solver
 ```
 python fit_advection.py
 ```
+![](https://zfc946.github.io/CNF.github.io/static/images/fermat.svg)
