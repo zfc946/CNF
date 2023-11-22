@@ -47,4 +47,4 @@ python fit_pointcloud_3d.py
 ```
 python fit_advection.py
 ```
-![](https://zfc946.github.io/CNF.github.io/static/images/fermat.svg)
+![](https://zfc946.github.io/CNF.github.io/static/images/advection_vis.svg)
