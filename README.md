@@ -4,7 +4,13 @@ This repository is the official implementation of the paper *Neural Fields with 
 
 ### [Project Page](https://zfc946.github.io/CNF.github.io/) | [Paper](https://arxiv.org/abs/2306.08943)
 
-## Setup
+## Getting Started
+
+### Prerequisites
+
+* Python 3.x
+
+### Dependencies
 ```
 pip install -r requirements.txt
 ```
