@@ -1,0 +1,15 @@
+matplotlib
+pytorch-lightning==1.8.1
+scikit-image==0.19.3
+torch==1.13.0
+open3d== 0.17.0
+tqdm==4.64.1
+wget==3.2
+scipy==1.9.3
+torchvision==0.14.0
+imageio
+pandas
+opencv_python
+wget
+timm
+scikit-learn
