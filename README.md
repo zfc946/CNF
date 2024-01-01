@@ -1,10 +1,10 @@
 # Constrained Neural Fields
 
+Still training a neural field with a regression loss and hoping for it to overfit? What if we **enforce the regression loss to be zero as a hard constraint** in the formulation of a neural field?
+
 This repository is the official implementation of the paper *Neural Fields with Hard Constraints of Arbitrary Differential Order*, NeurIPS 2023.
 
 ### [Project Page](https://zfc946.github.io/CNF.github.io/) | [Paper](https://arxiv.org/abs/2306.08943)
-
-Still training a neural field with a regression loss and hoping for it to overfit? We **enforce the regression loss to be zero as a hard constraint** in the formulation of a neural field.
 
 ## Getting Started
 
